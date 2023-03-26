@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'unsurv'
+copyright = '2021, unsurv'
+author = 'bjorn'
 
 release = '0.1'
 version = '0.1.0'
@@ -12,6 +12,7 @@ version = '0.1.0'
 # -- General configuration
 
 extensions = [
+    'myst_parser',
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
