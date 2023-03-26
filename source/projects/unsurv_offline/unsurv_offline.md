@@ -12,7 +12,7 @@ Currently available on [crowdsupply](https://www.crowdsupply.com/unsurv-technolo
 
 This project is part of the unsurv framework to fight privacy invasive technologies in the offline world. unsurv-offline logs your encounters with surveillance cameras and creates a daily report for you via NFC to review in the unsurv-companion Android app.
 
-``` {figure} /assets/unsurv_offline/first.jpeg
+``` {figure} assets/unsurv_offline/first.jpeg
 
 main PCB design
 ```
