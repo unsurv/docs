@@ -1,4 +1,4 @@
-# Mapping
+# mapping
 
 unsurv offers multiple ways to map public surveillance cameras in a privacy focused way.
 

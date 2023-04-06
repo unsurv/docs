@@ -5,6 +5,7 @@
 :glob:
 
 ./tutorials/*
+./power_management/*
 
 ```
 
@@ -21,7 +22,7 @@ main PCB design
 
 This device can easily be adapted to different use cases via the Arduino IDE. Arduino library + board integration are planned.
 
-List of features
+## List of features
 
 - ESP32 D4
 - ublox M8C GNSS receiver
@@ -31,17 +32,17 @@ List of features
 - MCP73831 single cell LiPo charging
 - CH340 USB to Serial
 
-Software:
+## Software
 
 - [unsurv-offline](https://github.com/unsurv/unsurv-offline/tree/master/software/unsurv-offline)
 - [other examples](https://github.com/unsurv/unsurv-offline/tree/master/software/examples) (tap to log location, location logging + step counting)
 
-Hardware:
+## Hardware
 
 - [PCB design](https://github.com/unsurv/unsurv-offline/tree/master/unsurv_offline_pcb/main) (KiCad files)
 - [case design](https://github.com/unsurv/unsurv-offline/tree/master/case) (FreeCAD + STL files)
 
-Special thanks to:
+## Special thanks to
 
 - SparkFun for maintaining the [ublox library](https://github.com/sparkfun/SparkFun_Ublox_Arduino_Library)
 - [awong1900](https://github.com/awong1900/RF430CL330H_Shield) for his work on the RF430
