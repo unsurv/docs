@@ -22,4 +22,11 @@ Another way is to double tap the device.
 
 unsurv offline consumes about 3 mA when in deep sleep while the USB to Serial adapter is switched off via the installed dipswitch. With an installed battery capacity of 250 - 300 mAh we are able to get multiple days of standby time.
 
+```{figure} ./assets/deep_sleep_power.png
+:width: 80%
+:alt: graph of power measurement
+
+PPK2 measurement over 7 seconds
+```
+
 These measurements were taken with the [nrf PPK2](https://www.nordicsemi.com/Products/Development-hardware/Power-Profiler-Kit-2)
